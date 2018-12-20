@@ -1,0 +1,1 @@
+A manager for Java queues that offers registered elements to queues and triggers a callback once an insertion was successful. This allows to suspend workflow when queues fill up and to resume workflow once space is again available.
